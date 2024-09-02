@@ -30,7 +30,7 @@ The project includes several visualizations to help understand the performance a
 
 1. **Daily Returns Plot**:  
    A time series plot showing the daily returns of TSLA, MSFT, and AAPL. This plot allows you to visualize the daily volatility and the fluctuations in stock prices over time.  
-   ![Daily Returns Plot](./daily returns plot.png)
+   ![Daily Returns Plot](./stocks_daily_return_chart.png)
 
 2. **Cumulative Returns Plot**:  
    A time series plot that displays the cumulative returns of each stock, which is the compounded return achieved over time. This helps in visualizing the overall growth or decline of an investment in each stock.  
@@ -38,9 +38,9 @@ The project includes several visualizations to help understand the performance a
 
 3. **Sharpe Ratio Barplot**:  
    A bar plot that illustrates the Sharpe Ratio of each stock. The Sharpe Ratio measures the risk-adjusted return, providing an indication of how much return is achieved per unit of risk. A higher Sharpe Ratio suggests better risk-adjusted performance.  
-   ![Sharpe Ratio Barplot](./Sharpe_ratio_bar_chart.png)
-
-4. **Maximum Drawdown Barplot**:  
+   ![Sharpe Ratio Bar Plot](./Sharpe_ratio_bar_chart.png)
+   
+5. **Maximum Drawdown Barplot**:  
    A bar plot showing the Maximum Drawdown for each stock, which represents the maximum observed loss from a peak to a trough of a portfolio before a new peak is achieved. This metric is crucial for understanding the potential risk of significant losses.  
    ![Maximum Drawdown Barplot](./Max_drawdown_bar_chart.png)
 
@@ -58,7 +58,7 @@ The analysis reveals the following key insights into the performance and risk pr
 
 - **Sharpe Ratio**:  
   The Sharpe Ratio barplot indicates that Microsoft (MSFT) has a relatively balanced risk-adjusted return compared to Tesla and Apple. A higher Sharpe Ratio means better compensation for the risk taken.
-
+  
 - **Maximum Drawdown**:  
   The Maximum Drawdown barplot reveals that Tesla has the highest potential for significant losses from its peak, while Microsoft has a lower maximum drawdown, suggesting it is a more stable investment during downturns.
 
