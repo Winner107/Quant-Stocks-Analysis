@@ -34,11 +34,11 @@ The project includes several visualizations to help understand the performance a
 
 2. **Cumulative Returns Plot**:  
    A time series plot that displays the cumulative returns of each stock, which is the compounded return achieved over time. This helps in visualizing the overall growth or decline of an investment in each stock.  
-   ![Cumulative Returns Plot](./Cummulative return chart.png)
+   ![Cumulative Returns Plot](./Cummulative_return_chart.png)
 
 3. **Sharpe Ratio Barplot**:  
    A bar plot that illustrates the Sharpe Ratio of each stock. The Sharpe Ratio measures the risk-adjusted return, providing an indication of how much return is achieved per unit of risk. A higher Sharpe Ratio suggests better risk-adjusted performance.  
-   ![Sharpe Ratio Barplot](./sharpe_ratio_barplot.png)
+   ![Sharpe Ratio Barplot](./Sharpe_ratio_bar_chart.png)
 
 4. **Maximum Drawdown Barplot**:  
    A bar plot showing the Maximum Drawdown for each stock, which represents the maximum observed loss from a peak to a trough of a portfolio before a new peak is achieved. This metric is crucial for understanding the potential risk of significant losses.  
