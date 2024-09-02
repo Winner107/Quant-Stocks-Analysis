@@ -42,7 +42,7 @@ The project includes several visualizations to help understand the performance a
 
 4. **Maximum Drawdown Barplot**:  
    A bar plot showing the Maximum Drawdown for each stock, which represents the maximum observed loss from a peak to a trough of a portfolio before a new peak is achieved. This metric is crucial for understanding the potential risk of significant losses.  
-   ![Maximum Drawdown Barplot](./maximum_drawdown_barplot.png)
+   ![Maximum Drawdown Barplot](./Max_drawdown_bar_chart.png)
 
 These visualizations provide valuable insights into both the returns and risks associated with investing in these popular tech stocks.
 
